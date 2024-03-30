@@ -1,10 +1,13 @@
-Snake Game README
+# Snake Game README
 
 
 Welcome to Snake Game, a classic arcade-style game developed in Python using Tkinter for the graphical user interface (GUI). In this game, players control a snake that grows in length as it consumes food while avoiding collisions with walls and its own body.
 
 
 ________________________________________________________
+
+# WHAT I HAVE LEARNED!
+
 
 While developing the Snake Game project in Python, I learned several valuable lessons:
 
@@ -28,7 +31,7 @@ Overall, developing the Snake Game project provided me with valuable practical e
 
 ________________________________________________________
 
-Features
+# Features
 
 
 Graphical User Interface (GUI)
@@ -53,7 +56,7 @@ Experience a smooth and intuitive game over screen when the snake collides with 
 
 ________________________________________________________
 
-How to Play
+# How to Play
 
 
 Installation: Download or clone the repository to your local machine.
